@@ -17,7 +17,10 @@
 
 I am a FullStack developer with strong problem-solving background and experience in PHP, Laravel, CodeIgniter, Perfex CRM, Bootstrap, JavaScript, Vuejs, DBMS, and API integration.
 
-
+📫 How to reach me:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khairat/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KhairatHossin)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/khairat.hossin)
 <!--
 **khairat-hossin/khairat-hossin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
