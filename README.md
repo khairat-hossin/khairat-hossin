@@ -26,8 +26,14 @@ I am a FullStack developer with strong problem-solving background and experience
 ![khairat-hossin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khairat-hossin&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 📫 How to reach me:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khairat/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KhairatHossin)
+<div style="width:50%">
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khairat/) 
+</div>
+<div style="width:50%">
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KhairatHossin)
+</div>
+
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/khairat.hossin)
 <!--
 **khairat-hossin/khairat-hossin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
